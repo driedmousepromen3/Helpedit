@@ -191,4 +191,4 @@ This repository serves as the official landing page for HelpEdit. The software i
 **Get the most recent version of HelpEdit today!**
 
 ---
-**Last updated:** 2026-11-07 14:27:20 UTC
+**Last updated:** 2026-11-07 19:08:03 UTC
